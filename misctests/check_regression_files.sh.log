@@ -1,0 +1,2 @@
+Checking that regression/Makefile.am contains all tests... ok
+Checking that all SGF files referenced by a test exist and are in regression/Makefile.am... ok
