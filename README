@@ -1,6 +1,4 @@
-Unabashedly modified/hacked together by djh2. 
-
-This repo contains altered version of fuego r1371 (original at http://sourceforge.net/projects/fuego/).
+Modifies revision 1371 of fuego (original at http://sourceforge.net/projects/fuego/) to compile with version 1.57 of boost libraries.
 
 See also: https://github.com/djh2/benzene
 
